@@ -3,6 +3,7 @@
 
 
 # Files and Folders
+- packratRepo.tar.gz: Packrat repository (hosted with [git large file storage](https://git-lfs.github.com/))
 - scripts: Conversion scripts from raw data to useable aggregated data
     - 01_ipums-ages.R:    
     This script will not run without additional data which cannot be released due to IPUMS licensing restrictions.
